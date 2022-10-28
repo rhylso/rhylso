@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/website?label=Website&style=for-the-badge&url=https://rhylso.xyz/" />
+  <img src="https://img.shields.io/website?label=Website&style=for-the-badge&url=https://www.rhylso.tech/" />
 </div>
