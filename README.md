@@ -5,7 +5,8 @@
 - [Panlygo](https://github.com/panlygo) - an open source game server management panel.
 
 ## Links 🔗
-- [Mastodon](https://github.com/rhylso)
-- [Discord](https://github.com/rhylso)
-- [YouTube](https://github.com/rhylso)
-- [Website](https://github.com/rhylso)
+![](https://img.shields.io/badge/Mastodon-red?style=for-the-badge)
+![](https://img.shields.io/badge/Discord-red?style=for-the-badge)
+![](https://img.shields.io/badge/YouTube-red?style=for-the-badge)
+![](https://img.shields.io/badge/Website-red?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rhylso&style=for-the-badge)
