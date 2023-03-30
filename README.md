@@ -1,4 +1,4 @@
-# 👋 | Hi there
+# 👋 | Hi there!
 - ### I'm rhylso, a Software Developer.
 
 ## 💻 | Projects
