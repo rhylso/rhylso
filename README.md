@@ -4,6 +4,7 @@
 ## 💻 | Projects
 - [Panlygo](https://github.com/panlygo) - an open source game server management panel.
 - [StatsDactyl](https://github.com/rhylso/statsdactyl) - statistics of your pterodactyl panel.
+- [PayoursBill](https://github.com/payoursbill) - an open source billing and invoicing software.
 
 ## 🔗 | Links
 ![img](https://img.shields.io/badge/Mastodon-red?style=for-the-badge)
