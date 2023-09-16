@@ -1,14 +1,9 @@
-# 👋 | Hi there!
-- ### I'm rhylso, a Software Developer.
+# 👋 Hey!
+> I'm rhylso, a Software Developer
 
-## 💻 | Projects
-- [Panlygo](https://github.com/panlygo) - an open source game server management panel.
-- [StatsDactyl](https://github.com/rhylso/statsdactyl) - statistics of your pterodactyl panel.
-- [PayoursBill](https://github.com/payoursbill) - an open source billing and invoicing software.
+---
 
-## 🔗 | Links
-![img](https://img.shields.io/badge/Mastodon-red?style=for-the-badge)
-![img](https://img.shields.io/badge/Discord-red?style=for-the-badge)
-![img](https://img.shields.io/badge/YouTube-red?style=for-the-badge)
-![img](https://img.shields.io/badge/Website-red?style=for-the-badge)
+<a href="https://mastodon.social/@rhylso"><img src="https://img.shields.io/badge/mastodon-blue?style=for-the-badge" /></a>
+<a href="https://twitter.com/rhylso"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge" /></a>
+<a href="https://rhylso.is-a.dev"><img src="https://img.shields.io/badge/website-blue?style=for-the-badge" /></a>
 ![img](https://komarev.com/ghpvc/?username=rhylso&style=for-the-badge)
