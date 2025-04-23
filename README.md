@@ -1,3 +1,4 @@
+![img](https://media.discordapp.net/attachments/1028963752588083243/1364503586503004261/rhylso-banner.png?ex=6809e87e&is=680896fe&hm=3be7a3227f040c13a0cdd6592ed83f3f97de39387dca7ca62838916fe540a22c&=&format=webp&quality=lossless)
 # 👋 Hi there!
 - I am a 16 years old self-taught developer from the Philippines who loves to build stuff.
 I also love to learn new technologies and build something that will be useful to other.
