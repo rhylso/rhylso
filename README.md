@@ -5,6 +5,7 @@ I also love to learn new technologies and build something that will be useful to
 ## 💻 Works & Projects
 |  💻 Project  | 📜 Description | ❓ Status |
 |:------------------------------------:|:------------------------:|:---:|
+| [metalitybyte](https://metalitybyte.com) | A new way to host your server.  | WIP |
 | [Socialzene](https://socialzene.xyz) | A new way to socialize.  | WIP |
 
 ---
@@ -13,7 +14,7 @@ I also love to learn new technologies and build something that will be useful to
 
 ---
 
-<a href="https://mastodon.social/@rhylso"><img src="https://img.shields.io/badge/mastodon-blue?style=for-the-badge" /></a>
-<a href="https://twitter.com/rhylso"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge" /></a>
-![img](https://komarev.com/ghpvc/?username=rhylso&style=for-the-badge)
-[![donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/rhylso/donate)
+<a href="https://bsky.app/profile/rhylso.bsky.social"><img src="https://img.shields.io/badge/bluesky-lightgreen?style=for-the-badge" /></a>
+<a href="https://x/rhylso"><img src="https://img.shields.io/badge/twitter/x-lightgreen?style=for-the-badge" /></a>
+![img](https://komarev.com/ghpvc/?username=rhylso&style=for-the-badge&color=00bf63)
+<a href='https://ko-fi.com/T6T416QB19' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
