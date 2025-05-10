@@ -1,5 +1,5 @@
 # 👋 Hi there!
-- I am a 16 years old self-taught developer from the Philippines who loves to build stuff.
+- I am a self-taught developer from the Philippines who loves to build stuff.
 I also love to learn new technologies and build something that will be useful to other.
 
 ## 💻 Works & Projects
