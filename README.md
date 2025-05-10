@@ -5,7 +5,7 @@ I also love to learn new technologies and build something that will be useful to
 ## 💻 Works & Projects
 |  💻 Project  | 📜 Description | ❓ Status |
 |:------------------------------------:|:------------------------:|:---:|
-| [Socialzene](https://socialzene.xyz) | A new way to socialize.  | WIP |
+| [DockByte](https://github.com/dockbyte) | An open-source app hosting platform.  | WIP |
 
 ---
 
